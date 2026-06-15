@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IyNex</string>
+    <string name="title_activity_main">IyNex</string>
+    <string name="package_name">com.iynex.app</string>
+    <string name="custom_url_scheme">com.iynex.app</string>
+</resources>
